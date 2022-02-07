@@ -24,7 +24,7 @@ echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m Step 7 :\e[0m\e[1;36m Start Phishing  "
 echo ""
 rm -rf /data/data/com.termux/files/usr/bin/SUMAN
 rm -rf /data/data/com.termux/files/usr/bin/OnlineHacking
-rm -rf /data/data/com.termux/files/usr/bin/Mobile-Legend_Phishing
+rm -rf /data/data/com.termux/files/usr/bin/MobileLegend-Phishing
 rm -rf /data/data/com.termux/files/usr/bin/ngrok
 rm -rf /data/data/com.termux/files/usr/bin/cloudflared
 sleep 5
