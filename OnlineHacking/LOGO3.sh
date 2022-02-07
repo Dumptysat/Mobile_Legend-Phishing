@@ -25,5 +25,5 @@ echo -e " \e[97mTelegram : \e[0m\e[34mhttps://telegram.dog/OnlineHacKing \e[0m\n
 		     echo ""
          echo -e "\e[96m========================\e[92m VICTIM INFORMATION \e[96m========================= \e[93m"  
 			   echo ""
-			   echo -e "\e[96m========================\e[92m    SUMAN © 2021    \e[96m=========================\e[92m"
+			   echo -e "\e[96m========================\e[92m    SUMAN © 2022    \e[96m=========================\e[92m"
                            echo ""
