@@ -13,8 +13,7 @@ echo""
 if [[ $option == *'linux'* ]]; then
 clear
 sudo apt install wget
-wget https://raw.githubusercontent.com/Online-Hacking/Mr-OnlineHacking/main/OnlineHacking/SUMAN/PUBG-BGMI/SM/OH/pro
-chmod +x pro
+
 
 fi
 
@@ -23,7 +22,6 @@ fi
 if [[ $option == *'termux'* ]]; then
 clear
 pkg install wget -y
-wget https://raw.githubusercontent.com/Online-Hacking/Mr-OnlineHacking/main/OnlineHacking/SUMAN/PUBG-BGMI/SM/OH/PRO
-chmod +x PRO
+
 
 fi
