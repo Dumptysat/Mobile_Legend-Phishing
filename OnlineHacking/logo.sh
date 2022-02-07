@@ -24,7 +24,7 @@ echo -e "\e[33m
      ╚══════╝╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═════╝ \e[0m\n"
 echo -e "\e[95m  \e[95;1m \e[0m\n"
   echo""    
-  echo -e $'\e[1;33m\e[0m\e[1;33m    ██████████\e[0m'"\e[96m██████████"'\e[1;33m\e[0m\e[1;31m██████████\e[0m' '\e[1;32m\e[0m\e[1;32m MOBILE LEGEND PHISHING TOOL \e[0m''\e[1;37m\e[0m\e[1;37m [v 1.1] \e[0m'                                       
+ echo -e $'\e[1;33m\e[0m\e[1;31m    ██████████\e[0m'"\e[1;37m██████████"'\e[1;33m\e[0m\e[0;32m██████████\e[0m' '\e[1;32m\e[0m\e[1;32m Mobile Legend Phishing Tool \e[0m''\e[1;37m\e[0m\e[1;37m [v 2.6] \e[0m'                                       
   echo ""
    echo -e $'\e[1;33m\e[0m\e[1;33m [\e[0m\e[1;32m Follow Github : \e[36mhttps://github.com/OnlineHacKing/Mobile_Legend-Phishing \e[0m\e[1;32m\e[0m\e[1;33m] \e[0m'
    echo ""
