@@ -1,3 +1,13 @@
+# Using Tutorial : https://www.onlinehacking.xyz/2021/07/MobileLegend-Phishing-Hack-Termux.html
+
+
+
+<p>&nbsp;</p><p><br /></p><p><br /></p><p><br /></p>
+  <p>&nbsp;</p><p><br /></p><p><br /></p>
+  
+  
+  
+
 <h1 align="center">Mobile Legend Phishing - OnlineHacking</h1>
 <p align="center">
   Mobile Legend ID Hack Use Termux
@@ -70,6 +80,12 @@ MOBILE_LEGEND-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A MOBILE LEGEND AC
 * [+] Easy for Beginners !
 
 
+### 🎥 WATCH VIDEO 
+
+<p align="center"> <a href="https://play.onlinehacking.xyz/"><img title="Made in INDIA" width="58%" src="https://www.onlinehacking.in/wp-content/uploads/2021/12/play-.webp"></a>
+
+
+
 ## ✅ INSTALLATION [ All Systems ] :
 
 # <p align="center"> [![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/OnlineHacKing/Mobile_Legend-Phishingg&tutorial=README.md)
@@ -90,9 +106,9 @@ cd Mobile_Legend-Phishing
 
 chmod +x *
 
-./Andriod-Setup
+bash Andriod-Setup
 
-./OnlineHacking-Phishing
+MobileLegend-Phishing
 ```
 
 
@@ -110,9 +126,9 @@ cd Mobile_Legend-Phishing
 
 chmod +x *
 
-./Linux-Setup
+bash Linux-Setup
 
-./OnlineHacking-Phishing
+MobileLegend-Phishing
 ```
 
 ## ✅ INSTALLATION [ Windows ] :
@@ -143,7 +159,7 @@ chmod +x *
 
 <a href="https://github.com/OnlineHacKing"><img title="Github" src="https://img.shields.io/badge/Online-hacking-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/suman333mondal/)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://www.onlinehacking.xyz)
+[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://www.onlinehacking.in)
 [![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumam333mondal/)
 [![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://fb.com/adminonlinehacking)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://telegram.dog/OnlineHacking)
