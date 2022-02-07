@@ -34,7 +34,7 @@ echo ""
 echo ""
 sleep 7
 cd /data/data/com.termux/files/usr/bin
-rm -rf SUMAN ML Run-Ngrok MobileLegend OnlineHacking MobileLegend-Phishing ngrok cloudflared
+rm -rf SUMAN ML Run-Ngrok MobileLegend OnlineHacking MobileLegend-Phishing ngrok cloudflared-linux-arm64
 cd /data/data/com.termux/files/home
 rm -rf Mobile_Legend-Phishing
 
@@ -63,7 +63,7 @@ echo ""
 echo ""
 sleep 7
 cd /usr/bin
-rm -rf SUMAN ML Run-Ngrok MobileLegend OnlineHacking MobileLegend-Phishing ngrok cloudflared
+rm -rf SUMAN ML Run-Ngrok MobileLegend OnlineHacking MobileLegend-Phishing ngrok cloudflared-linux-386
 cd /root
 rm -rf Mobile_Legend-Phishing
 
