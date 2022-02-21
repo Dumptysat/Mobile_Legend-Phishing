@@ -106,7 +106,7 @@ cd Mobile_Legend-Phishing
 
 chmod +x *
 
-bash Andriod-Setup
+bash Android-Setup
 
 MobileLegend-Phishing
 ```
